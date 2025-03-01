@@ -1,16 +1,19 @@
-# ramzan_mubarak
+# Ramzan Mubarak
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+Ramzan Mubarak is a Flutter application that displays a beautifully animated greeting screen for the holy month of Ramadan. It features smooth Lottie animations of a crescent moon, a mosque, and a festive Ramzan Mubarak text, creating a visually appealing and spiritual experience.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Crescent Moon Animation**: A Lottie animation of the moon and star at the top.
+- **Mosque Animation**: A mosque animation representing the essence of Ramadan.
+- **Ramzan Mubarak Text**: A festive greeting text with a non-repeating animation.
+- **Minimalist UI**: A clean and elegant design with a warm background color.
+- **Smooth Performance**: Uses Flutter **Stack** and **Positioned** widgets for a structured and responsive layout.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here's how the greeting screen looks:
+
+<img src="assets/ramzan_mubarak_view.png" alt="Ramzan Mubarak Screen" width="300" height="570">
